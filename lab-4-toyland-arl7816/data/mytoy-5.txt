@@ -1,0 +1,5 @@
+SUPERHERO spider-man 20 with-great-power-comes-great-responsibility FLIGHT INVINCIBILITY
+SUPERHERO batman 81 criminals,-by-nature,-are-a-cowardly-and-superstitious-lot FLIGHT TELEPORTATION
+SUPERHERO luke-cage 39 since-I-cant-touch-the-king-Im-going-to-take-his-queen STRENGTH INVINCIBILITY
+SUPERHERO superman 30 Whats-so-funny-about-truth-justice-and-the-American-way LASERBEAM STRENGTH
+SUPERHERO deadpool 45 Chimichangas INVINCIBILITY TELEPORTATION
